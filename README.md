@@ -17,5 +17,6 @@ To transform raw retail sales data into a structured, insight-driven dashboard u
 •	Do customers prefer comfort materials (Cotton/Wool) over luxury fabrics (Silk/Satin)?
 •	Are promotions impacting profitability?
 •	Which product position (Aisle, End-cap, Front) generates maximum sales?
+•	dashboard Interaction <a href=“ https://github.com/Shivanidere13/Data-Analysis-Dashboard/blob/main/zara_business_sale%20dashboard.xlsx”>View dashboard</a>
 
 
