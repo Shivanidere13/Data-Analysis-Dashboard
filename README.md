@@ -5,7 +5,7 @@ To transform raw retail sales data into a structured, insight-driven dashboard u
 
 ## Dataset used
 
--	<a href=“https://github.com/Shivanidere13/Data-Analysis-Dashboard/blob/main/zara_business_sale%20dashboard.xlsx”>Dataset</a>
+-	[Dataset](https://github.com/Shivanidere13/Data-Analysis-Dashboard/blob/main/zara_business_sale%20dashboard.xlsx)
 
 ## 📊 Questions (KPIs)
 
@@ -18,26 +18,26 @@ To transform raw retail sales data into a structured, insight-driven dashboard u
 - Which material generates the highest revenue?
 - Do customers prefer comfort materials (Cotton/Wool) over luxury fabrics (Silk/Satin)?
 - Which product position (Aisle, End-cap, Front) generates maximum sales?
-- -Dashboard Interaction
+- Dashboard Interaction
 
 [View Dashboard](https://github.com/Shivanidere13/Data-Analysis-Dashboard/blob/main/zara_business_sale%20dashboard.xlsx)
 ## Process
-•	Imported and cleaned the raw sales dataset in Excel.
-•	Created calculated metrics such as Total Revenue, Average Price, and Total Volume.
-•	Used Pivot Tables to analyze sales by season, category, material, promotion, and origin.
-•	Built interactive dashboard using Pivot Charts and Slicers.
-•	Generated business insights and recommendations based on KPI analysis.
+-	Imported and cleaned the raw sales dataset in Excel.
+-	Created calculated metrics such as Total Revenue, Average Price, and Total Volume.
+-	Used Pivot Tables to analyze sales by season, category, material, promotion, and origin.
+-	Built interactive dashboard using Pivot Charts and Slicers.
+-	Generated business insights and recommendations based on KPI analysis.
 
 ## Dashboard
 <img width="940" height="562" alt="image" src="https://github.com/user-attachments/assets/48c29078-1e44-4557-a587-d72c85eddb87" />
 
 ## Project Insight
-•	Autumn and Winter generate the highest revenue, indicating strong seasonal demand for outerwear.
-•	Jackets are the top-performing category, contributing the largest share of total revenue.
-•	Cotton and Wool materials dominate sales, showing customer preference for comfort and durability.
-•	Products placed in Aisle and End-cap positions perform better, highlighting the impact of store placement.
-•	Promotions increase sales volume, but non-promotional products still contribute stable revenue.
-•	Manufacturing from China and Bangladesh contributes significantly, showing supply chain concentration in Asia.
+-	Autumn and Winter generate the highest revenue, indicating strong seasonal demand for outerwear.
+-	Jackets are the top-performing category, contributing the largest share of total revenue.
+-	Cotton and Wool materials dominate sales, showing customer preference for comfort and durability.
+-	Products placed in Aisle and End-cap positions perform better, highlighting the impact of store placement.
+-	Promotions increase sales volume, but non-promotional products still contribute stable revenue.
+-	Manufacturing from China and Bangladesh contributes significantly, showing supply chain concentration in Asia.
 
 ## Final Conclusion
 The analysis reveals that Zara’s revenue growth is primarily driven by seasonal outerwear demand, strategic product placement, and high-volume sales of affordable fashion.
